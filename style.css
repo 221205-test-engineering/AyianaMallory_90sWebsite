@@ -1,0 +1,26 @@
+#para {
+    color: darkblue;
+}
+
+thead, tbody, tr, td {
+    border-radius: 6in;
+    border-style: ridge;
+    border-color: blueviolet;
+}
+
+h1, p, figcaption, th, td {
+    font-size: xxx-large;
+    color: rgb(0, 0, 0);
+}
+
+figure {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+ul {
+    font-size: xxx-large;
+    color: rgb(0, 0, 0);
+}
